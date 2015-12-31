@@ -195,3 +195,6 @@ vsure==0.4.3
 
 # homeassistant.components.zwave
 pydispatcher==2.0.5
+
+# homeassistant.components.yamaha
+rxv==0.1.8
